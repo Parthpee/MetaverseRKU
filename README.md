@@ -98,16 +98,15 @@ npm start
 
 ```
 
-Navigate to `http://localhost:3000` inside your Web3-enabled browser.
-<hr>
+Navigate to `http://localhost:3000` inside your Web3-enabled browser. 
+## Process
+<hr> 
+
 <img width="670" alt="Screenshot 2024-07-12 at 19 16 54" src="https://github.com/user-attachments/assets/309c6deb-7d48-4d2c-81fb-c6d649900099"><hr>
 <img width="690" alt="Screenshot 2024-07-12 at 19 17 13" src="https://github.com/user-attachments/assets/1f820bcc-420e-436e-bec8-faf36bd940be"><hr>
 <img width="733" alt="Screenshot 2024-07-12 at 19 17 24" src="https://github.com/user-attachments/assets/b9f8187b-9693-4e11-97c3-22a1075ed2c9"><hr>
 <img width="720" alt="Screenshot 2024-07-12 at 19 17 30" src="https://github.com/user-attachments/assets/3ea9057d-c4e5-436f-8a16-304631c4b91d"><hr>
 <img width="750" alt="Screenshot 2024-07-12 at 19 17 38" src="https://github.com/user-attachments/assets/6cf32f26-b154-43fe-83e6-157e81b42477"><hr>
-<hr>
-
----
 
 ## 💻 Core Logic Implementation
 
