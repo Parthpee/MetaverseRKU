@@ -9,7 +9,7 @@
 <hr>
 
 [FINAL_REPORT](https://github.com/Parth123-Pro/MetaverseRKU/files/10050047/FINAL_REPORT_.pdf)
-```markdown
+
 # DeMetaWorld: Decentralized Canvas Metaverse
 
 A high-performance, web-based 2D metaverse ecosystem built with an event-driven Web3 architecture. This project bridges an interactive HTML5 graphic landscape with an on-chain ERC-721 smart contract layer, using low-latency data streams to reflect true asset ownership in real-time.[cite: 1]
@@ -21,7 +21,6 @@ A high-performance, web-based 2D metaverse ecosystem built with an event-driven 
 The application bypasses slow, traditional JSON-RPC polling loops by leveraging a reactive Web3 indexer and stream workflow:[cite: 1]
 
 
-```
 
 +-----------------------------------------------------------+
 |                       FRONTEND                            |
@@ -43,7 +42,6 @@ v
 |  - ERC-721 Land Smart Contract (OpenZeppelin Secure Base) |
 +-----------------------------------------------------------+
 
-```
 
 ### Key Highlights
 * **On-Chain Identity:** Every individual coordinate land grid plot is hashed cryptographically and linked to a unique ERC-721 Token ID.[cite: 1]
