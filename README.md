@@ -1,18 +1,11 @@
-# MetaverseRKU
-<img width="790" alt="Screenshot 2022-10-04 at 10 51 24 AM" src="https://user-images.githubusercontent.com/55745745/193741058-8fbd1143-4443-4b91-9aa4-bff4515c34d8.png">
-<img width="670" alt="Screenshot 2024-07-12 at 19 16 54" src="https://github.com/user-attachments/assets/309c6deb-7d48-4d2c-81fb-c6d649900099">
-<img width="720" alt="Screenshot 2024-07-12 at 19 17 03" src="https://github.com/user-attachments/assets/55d7b8b3-3677-4c00-b01b-66ed39524972">
-<img width="690" alt="Screenshot 2024-07-12 at 19 17 13" src="https://github.com/user-attachments/assets/1f820bcc-420e-436e-bec8-faf36bd940be">
-<img width="733" alt="Screenshot 2024-07-12 at 19 17 24" src="https://github.com/user-attachments/assets/b9f8187b-9693-4e11-97c3-22a1075ed2c9">
-<img width="720" alt="Screenshot 2024-07-12 at 19 17 30" src="https://github.com/user-attachments/assets/3ea9057d-c4e5-436f-8a16-304631c4b91d">
-<img width="750" alt="Screenshot 2024-07-12 at 19 17 38" src="https://github.com/user-attachments/assets/6cf32f26-b154-43fe-83e6-157e81b42477">
-<hr>
+
 
 [FINAL_REPORT](https://github.com/Parth123-Pro/MetaverseRKU/files/10050047/FINAL_REPORT_.pdf)
 
-# DeMetaWorld: Decentralized Canvas Metaverse
+# MetaverseRKU: Decentralized Canvas Metaverse
 
 A high-performance, web-based 2D metaverse ecosystem built with an event-driven Web3 architecture. This project bridges an interactive HTML5 graphic landscape with an on-chain ERC-721 smart contract layer, using low-latency data streams to reflect true asset ownership in real-time.[cite: 1]
+<img width="790" alt="Screenshot 2022-10-04 at 10 51 24 AM" src="https://user-images.githubusercontent.com/55745745/193741058-8fbd1143-4443-4b91-9aa4-bff4515c34d8.png">
 
 ---
 
@@ -22,25 +15,8 @@ The application bypasses slow, traditional JSON-RPC polling loops by leveraging 
 
 
 
-+-----------------------------------------------------------+
-|                       FRONTEND                            |
-|  - HTML5 Canvas Map Viewer     - Ethers.js Asset Sync     |
-|  - User Plot Selector Tool     - Web3 Wallet Connect      |
-+-----------------------------------------------------------+
-|
-v
-+-----------------------------------------------------------+
-|                    BACKEND & INDEXING                     |
-|  - Web3 Data APIs (Fetch live plot ownership / balances)  |
-|  - Event Streams (Listen for real-time minting events)    |
-+-----------------------------------------------------------+
-|
-v
-+-----------------------------------------------------------+
-|                    BLOCKCHAIN LAYER                       |
-|  - EVM Testnet (Polygon Amoy / Base Testnet)              |
-|  - ERC-721 Land Smart Contract (OpenZeppelin Secure Base) |
-+-----------------------------------------------------------+
+<img width="454" height="379" alt="Screenshot 2026-06-03 at 12 27 26" src="https://github.com/user-attachments/assets/ba16dd52-1b60-4b7f-9a9c-6cf592ffc7ec" />
+
 
 
 ### Key Highlights
@@ -126,6 +102,13 @@ npm start
 ```
 
 Navigate to `http://localhost:3000` inside your Web3-enabled browser.
+<img width="670" alt="Screenshot 2024-07-12 at 19 16 54" src="https://github.com/user-attachments/assets/309c6deb-7d48-4d2c-81fb-c6d649900099">
+<img width="720" alt="Screenshot 2024-07-12 at 19 17 03" src="https://github.com/user-attachments/assets/55d7b8b3-3677-4c00-b01b-66ed39524972">
+<img width="690" alt="Screenshot 2024-07-12 at 19 17 13" src="https://github.com/user-attachments/assets/1f820bcc-420e-436e-bec8-faf36bd940be">
+<img width="733" alt="Screenshot 2024-07-12 at 19 17 24" src="https://github.com/user-attachments/assets/b9f8187b-9693-4e11-97c3-22a1075ed2c9">
+<img width="720" alt="Screenshot 2024-07-12 at 19 17 30" src="https://github.com/user-attachments/assets/3ea9057d-c4e5-436f-8a16-304631c4b91d">
+<img width="750" alt="Screenshot 2024-07-12 at 19 17 38" src="https://github.com/user-attachments/assets/6cf32f26-b154-43fe-83e6-157e81b42477">
+<hr>
 
 ---
 
